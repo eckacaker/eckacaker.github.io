@@ -1,6 +1,6 @@
 {
-  "homepage": "http://eckacaker.github.io/eck/",
   "name": "eck",
+  "homepage": "http://eckacaker.github.io/eck/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
